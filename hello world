@@ -10,6 +10,6 @@ public class Main{
             System.out.println("true");
             }
         else {
-            System.out.prinln("false");
+            System.out.println("false");
     }
 }
